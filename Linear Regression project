@@ -1,1 +1,10 @@
+#Overiew
 
+-The dataset contains housing data of a local area.
+- Goal is to find the correlation between the features in the dataset. 
+
+##Dependencies
+
+--pandas
+--scikit-learn
+--matplotlib
